@@ -1,0 +1,23 @@
+[
+    {"team": 7,
+    "members": ["Naruto Uzumaki", "Sakura Haruno", "Sasuke Uchiha"],
+    "sensei": "Kakashi Hatake"},
+    
+    {"team": 10,
+    "members": ["Ino Yamanaka", "Shikamaru Nara", "Chouji Akimichi"],
+    "sensei": "Asuma Sarutobi"
+    },
+
+    {"team": 8,
+    "members": ["Kiba Inuzuka", "Shino Aburame", "Hinata Hyuga"],
+    "sensei": "Kurenai Yuhi"
+    },
+
+    {"team": 9,
+    "members": ["Neji Hyuga", "TenTen", "Rock Lee"],
+    "sensei": "Might Guy"},
+
+    {"team": 11,
+    "members": ["Gaara", "Temari", "Kankuro"],
+    "sensei": "Baki"}
+]
